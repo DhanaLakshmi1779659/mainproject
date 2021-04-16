@@ -1,4 +1,4 @@
-public class JenkinsDemo
+public class 
 {
   public static void main(String args[])
   {
